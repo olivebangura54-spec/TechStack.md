@@ -19,13 +19,14 @@ TECH STACK:this is the combination of tools,programming languages,framework and 
 
                          POPULAR TECH STACKS:
 
-            Stack,Frontend,Backend / Server,Database,Best For
-MERN,React,Node.js & Express,MongoDB (NoSQL),"Startups, social media apps, and rapid JS-based development."
-Next.js Fullstack,Next.js (React),Node.js (Serverless),PostgreSQL (SQL),"High-performance websites, SEO-heavy blogs, and modern SaaS."
-LAMP,HTML / CSS / JS,PHP & Apache,MySQL (SQL),"Traditional web hosting, WordPress sites, and legacy systems."
-Django + React,React,Python (Django),PostgreSQL (SQL),"Data-heavy apps, AI/Machine Learning integration, and FinTech."
-Flutter / Firebase,Flutter (Dart),Firebase (Serverless),Cloud Firestore,Fast mobile app development (iOS/Android) and real-time apps.
-MEAN	Angular,	Node.js + Express,	MongoDB,	N/A (Cross-platform)
+            | Stack               | Frontend           | Backend / Server     | Database           | Best For |
+|---------------------|--------------------|----------------------|--------------------|----------|
+| MERN                | React              | Node.js & Express    | MongoDB (NoSQL)    | Startups, social media apps, rapid JavaScript development |
+| Next.js Fullstack   | Next.js (React)    | Node.js (Serverless) | PostgreSQL (SQL)   | High-performance websites, SEO-heavy blogs, modern SaaS |
+| LAMP                | HTML / CSS / JS    | PHP & Apache         | MySQL (SQL)        | Traditional web hosting, WordPress sites, legacy systems |
+| Django + React      | React              | Python (Django)      | PostgreSQL (SQL)   | Data-heavy apps, AI/ML, FinTech |
+| Flutter / Firebase  | Flutter (Dart)     | Firebase (Serverless)| Cloud Firestore    | Fast mobile apps, real-time applications |
+| MEAN                | Angular            | Node.js + Express    | MongoDB            | Cross-platform web applications |
 
                    POINTS TO NOTE:
 1. SQL vs. NoSQL:Notice that MERN and Flutter/Firebase use "NoSQL" (flexible, like folders), while Next.js and Django prefer "SQL" (rigid, like spreadsheets). Choosing a stack usually starts with how you want to store your data.
