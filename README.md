@@ -18,12 +18,13 @@ TECH STACK:this is the combination of tools,programming languages,framework and 
                          HOW IT ALL CONNECTS:user clicks something(frontend),request goes to server(backend),server gets or saves data(database) and response goes back to frontend end.
 
                          POPULAR TECH STACKS:
-              Stack,Frontend,Backend / Server,Database,Best For
-MERN:React,Node.js & Express,MongoDB (NoSQL),"Startups, social media apps, and rapid JS-based development."
-Next.js Fullstack:Next.js (React),Node.js (Serverless),PostgreSQL (SQL),"High-performance websites, SEO-heavy blogs, and modern SaaS."
-LAMP:HTML / CSS / JS,PHP & Apache,MySQL (SQL),"Traditional web hosting, WordPress sites, and legacy systems."
-Django + React:React,Python (Django),PostgreSQL (SQL),"Data-heavy apps, AI/Machine Learning integration, and FinTech."
-Flutter / Firebase:Flutter (Dart),Firebase (Serverless),Cloud Firestore,Fast mobile app development (iOS/Android) and real-time apps.
+
+            Stack,Frontend,Backend / Server,Database,Best For
+MERN,React,Node.js & Express,MongoDB (NoSQL),"Startups, social media apps, and rapid JS-based development."
+Next.js Fullstack,Next.js (React),Node.js (Serverless),PostgreSQL (SQL),"High-performance websites, SEO-heavy blogs, and modern SaaS."
+LAMP,HTML / CSS / JS,PHP & Apache,MySQL (SQL),"Traditional web hosting, WordPress sites, and legacy systems."
+Django + React,React,Python (Django),PostgreSQL (SQL),"Data-heavy apps, AI/Machine Learning integration, and FinTech."
+Flutter / Firebase,Flutter (Dart),Firebase (Serverless),Cloud Firestore,Fast mobile app development (iOS/Android) and real-time apps.
 MEAN	Angular,	Node.js + Express,	MongoDB,	N/A (Cross-platform)
 
                    POINTS TO NOTE:
