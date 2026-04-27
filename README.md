@@ -1,4 +1,4 @@
-I                 Olive's TECH STACK RESEARCH
+          Olive's TECH STACK RESEARCH
       OVERVIEW  :this project provides a comprehensive study of tech stcak architecture,examining how different technologies across the frontend,backend and database layers integrate to build modern apps.
 
 TECH STACK:this is the combination of tools,programming languages,framework and technologies used to build and run an app.
@@ -98,7 +98,5 @@ Instead of picking “popular tools,” you choose based on the problem:
                            -You are a solo developer or a small team and don't want to hire a dedicated "Server Expert."
 
 
-In conclusion, a tech stack is the combination of technologies used to build and run an application. It includes the frontend, backend, database, and other supporting tools that all work together to make a complete system. From this assignment, I have learned that each part of the tech stack has a specific role and they must work together for an application to function properly. I also understood that choosing the right technologies depends on the type of project being developed, its purpose, and the features required. Overall, tech stacks are very important in modern software development because they determine how efficient, scalable, and user-friendly an application will be.
-This topic has helped me understand how the apps we use every day are built behind the scenes, and how to choose the right tech stack based on project needs rather than guessing.
-                    
+
                                        
